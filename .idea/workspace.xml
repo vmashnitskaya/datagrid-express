@@ -15,7 +15,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../datagrid" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -32,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604384874475</updated>
-      <workItem from="1604384875729" duration="2327000" />
+      <workItem from="1604384875729" duration="2709000" />
     </task>
     <servers />
   </component>
@@ -48,6 +48,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="235" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1604385137270" />
+    <state x="496" y="112" key="FileChooserDialogImpl" timestamp="1604387586275">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="496" y="112" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604387586275" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1604386234872">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
