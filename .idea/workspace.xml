@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15c1685d-a058-4297-afa8-d6daa9f35cc0" name="Default Changelist" comment="" />
+    <list default="true" id="15c1685d-a058-4297-afa8-d6daa9f35cc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/auth.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth.routes.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jli2Yd9ssx90WBUqMfMcw2KOEk" />
   <component name="ProjectViewState">
@@ -15,7 +21,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../datagrid" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -33,6 +40,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604384874475</updated>
       <workItem from="1604384875729" duration="2709000" />
+      <workItem from="1604391178533" duration="251000" />
+      <workItem from="1604391870442" duration="369000" />
     </task>
     <servers />
   </component>
@@ -48,10 +57,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="235" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1604385137270" />
-    <state x="496" y="112" key="FileChooserDialogImpl" timestamp="1604387586275">
+    <state x="496" y="112" key="FileChooserDialogImpl" timestamp="1604391427711">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="496" y="112" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604387586275" />
+    <state x="496" y="112" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604391427711" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1604386234872">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
