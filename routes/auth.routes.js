@@ -35,7 +35,8 @@ router.post(
 
             res.status(201).json({ message: 'The user is created' });
         }catch(e){
-            res.status(500).json({message: e});
+            console.log(e);
+            res.status(500).json({ message: 'Something went wrong, please try again' });
         }
     }
 )
@@ -76,7 +77,7 @@ router.post(
 
             res.json({ token, userId: user.id });
         } catch (e) {
-            res.status(500).json({message: e});
+            res.status(500).json({ message: 'Something went wrong, please try again' });
         }
     }
 )
